@@ -41,13 +41,13 @@ def validar_superficie(superficie):
     superficie (str): La superficie a validar.
   
   Raises:
-    ValueError: Si la superficie está vacía, no es un número o es menor o igual a 0.
+    ValueError: Si la superficie está vacía, no es un número entero o es menor o igual a 0.
   """
   if not superficie.strip():
     raise ValueError("La superficie no puede estar vacía.")
-  elif not superficie.replace(".", "").isdigit():
+  elif not superficie.isdigit():
     raise ValueError("La superficie debe ser un número.")
-  elif float(superficie) <= 0:
+  elif int(superficie) <= 0:
     raise ValueError("La superficie debe ser mayor a 0.")
 
 def validar_continente(continente):

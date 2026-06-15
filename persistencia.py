@@ -30,7 +30,7 @@ def cargar_paises():
         paises.append({
           "nombre": fila["nombre"],
           "poblacion": int(fila["poblacion"]),
-          "superficie": float(fila["superficie"]),
+          "superficie": int(fila["superficie"]),
           "continente": fila["continente"]
         })
 
