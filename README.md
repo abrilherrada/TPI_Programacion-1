@@ -244,7 +244,7 @@ Enlace al video de presentación:
 
 Documentación del proyecto:
 
-[Informe del proyecto](https://drive.google.com/file/d/1YpHqwIa9wc2PBrLWlT7hglQUku-zo8MF/view?usp=sharing)
+[Informe del proyecto](https://drive.google.com/file/d/1ZkscuA5uAOAfxV0rCJ6UGZDsDUb35V92/view?usp=sharing)
 
 ---
 
