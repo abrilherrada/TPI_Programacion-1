@@ -232,14 +232,6 @@ Cantidad de países por continente:
 
 ---
 
-## Informe del proyecto
-
-Enlace al informe:
-
-[Agregar enlace]
-
----
-
 ## Video demostrativo
 
 Enlace al video de presentación:
